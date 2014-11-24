@@ -5,7 +5,7 @@ Steps to run this code:
 
 1) Have latest Unreal Engine software installed on your machine.
 
-2) Open the project folder in unity.
+2) Open the project folder in Unreal engine.
 
 3) Simulate the game main file.
 
