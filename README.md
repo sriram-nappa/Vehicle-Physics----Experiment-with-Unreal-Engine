@@ -3,7 +3,7 @@ Vehicle-Physics----Experiment-with-Unreal-Engine
 
 Steps to run this code:
 
-1) Have latest Unity 3D software installed on your machine.
+1) Have latest Unreal Engine software installed on your machine.
 
 2) Open the project folder in unity.
 
